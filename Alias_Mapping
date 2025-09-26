@@ -78,18 +78,6 @@
     ├─ Host Interface  : "PCIe Gen3 x8"
     └─ iLO Product Name: "(missing)"
 
-🔹 Program: "Skybox"
-    ├─ Alias           : "HPE Ethernet 10/40Gb 2-port 574QSFP+ Adapter"
-    ├─ PCA             : "789011-001"
-    ├─ Host Interface  : "PCIe Gen3 x8"
-    └─ iLO Product Name: "(missing)"
-
-🔹 Program: "Melrose"
-    ├─ Alias           : "HPE Synergy 6410C 25/50Gb Ethernet Adapter"
-    ├─ PCA             : "868777-001"
-    ├─ Host Interface  : "X16 PCIe"
-    └─ iLO Product Name: "(missing)"
-
 🔹 Program: "Moody"
     ├─ Alias           : "HPE Ethernet 100Gb 1-port 842QSFP28 Adapter"
     ├─ PCA             : "874251-001"
