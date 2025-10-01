@@ -822,6 +822,12 @@
     ├─ Host Interface  : "PCIe Gen2 x 4"
     └─ iLO Product Name: "Broadcom NetXtreme Gigabit Ethernet - NIC"
 
+🔹 Program: "Bubbles II"
+    ├─ Alias           : "Broadcom BCM5719 Ethernet 1Gb 4-port Base-T OCP3 Adapter for HPE"
+    ├─ PCA             : "P51183-001"
+    ├─ Host Interface  : "PCIe Gen2 x 4"
+    └─ iLO Product Name: "BCM 5719 1Gb 4p BASE-T OCP Adptr"
+
 🔹 Program: "Brave"
     ├─ Alias           : "Broadcom BCM57508 Ethernet 100Gb 2-port QSFP56 Adapter for HPE"
     ├─ PCA             : "P42024-001"
