@@ -630,6 +630,12 @@
     ├─ Host Interface  : "PCIe Gen 3.0/4.0 x8"
     └─ iLO Product Name: "MCX631102AS-ADAT"
 
+🔹 Program: "Major"
+    ├─ Alias           : "Mellanox MCX631102AS-ADAT Ethernet 10/25Gb 2-port SFP28 Adapter for HPE"
+    ├─ PCA             : "P42046-001"
+    ├─ Host Interface  : "PCIe Gen 3.0/4.0 x8"
+    └─ iLO Product Name: "CX631102A"
+
 🔹 Program: "Macro"
     ├─ Alias           : "Mellanox MCX631432AS-ADAI Ethernet 10/25Gb 2-port SFP28 OCP3 Adapter for HPE"
     ├─ PCA             : "P42043-001"
