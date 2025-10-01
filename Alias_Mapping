@@ -786,6 +786,12 @@
     ├─ Host Interface  : "PCIe Gen3 x 8"
     └─ iLO Product Name: "Broadcom P210p NetXtreme-E Dual-port 10Gb Ethernet PCIe Adapter"
 
+🔹 Program: "Blaze"
+    ├─ Alias           : "Broadcom BCM57412 Ethernet 10Gb 2-port SFP+ Adapter for HPE"
+    ├─ PCA             : "P26261-001"
+    ├─ Host Interface  : "PCIe Gen3 x 8"
+    └─ iLO Product Name: "Broadcom P210p NetXtreme-E Dual-port 10Gb Ethernet PCIe Adapter - NIC"
+
 🔹 Program: "Beach"
     ├─ Alias           : "Broadcom BCM57414 Ethernet 10/25Gb 2-port SFP28 OCP3 Adapter for HPE"
     ├─ PCA             : "P10113-001"
