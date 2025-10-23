@@ -1,0 +1,18 @@
+[InstallMedia-BaseOS]
+name=Red Hat Enterprise Linux 9.1.0 - BaseOS
+mediaid=None
+metadata_expire=-1
+gpgcheck=1
+enabled=1
+baseurl=file:///run/media/root/RHEL-9-1-0-BaseOS-x86_64/BaseOS/
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release
+
+[InstallMedia-Appstream]
+name=Red Hat Enterprise Linux 9.1.0 - AppStream
+mediaid=None
+metadata_expire=-1
+gpgcheck=1
+enabled=1
+baseurl=file:///run/media/root/RHEL-9-1-0-BaseOS-x86_64/AppStream/
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release
+
