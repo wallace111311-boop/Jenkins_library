@@ -648,6 +648,13 @@
     ├─ Host Interface  : "PCIe Gen 3.0/4.0 x16"
     └─ iLO Product Name: "Broadcom NetXtreme-E Quad 25Gb SFP28 PCIe Ethernet"
 
+🔹 Program: "Broadcast"
+    ├─ Alias           : "Broadcom BCM57504 Ethernet 10/25Gb 4-port SFP28 Adapter for HPE"
+    ├─ PCA             : "P41970-001"
+    ├─ Host Interface  : "PCIe Gen 3.0/4.0 x16"
+    └─ iLO Product Name: "Broadcom NetXtreme-E Quad 25Gb SFP28 PCIe Ethernet - NIC"
+
+
 🔹 Program: "Brownie"
     ├─ Alias           : "Broadcom BCM57504 Ethernet 10/25Gb 4-port SFP28 OCP3 Adapter for HPE"
     ├─ PCA             : "P42028-001"
