@@ -906,3 +906,9 @@
     ├─ PCA             : ""
     ├─ Host Interface  : ""
     └─ iLO Product Name: "Intel(R) Ethernet Network Adapter E830-XXV-8 for OCP 3.0"
+
+🔹 Program: "Inu"
+    ├─ Alias           : "Intel(R) Ethernet Network Adapter E830-XXVDA4F"
+    ├─ PCA             : ""
+    ├─ Host Interface  : ""
+    └─ iLO Product Name: "Intel(R) Ethernet Network Adapter E830-XXVDA4F"
