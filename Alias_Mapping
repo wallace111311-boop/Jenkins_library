@@ -847,6 +847,13 @@
     ├─ Host Interface  : "PCIe Gen2 x 4"
     └─ iLO Product Name: "Broadcom NetXtreme 5719 Quad Port Gigabit PCIe Adapter - NIC"
 
+🔹 Program: "Beeswax II"
+    ├─ Alias           : "Broadcom BCM5719 Ethernet 1Gb 4-port Base-T Adapter for HPE"
+    ├─ PCA             : "P51180-001"
+    ├─ Host Interface  : "PCIe Gen2 x 4"
+    └─ iLO Product Name: "Broadcom NetXtreme 5719 Quad Port Gigabit PCIe Adapter - NIC"
+
+
 🔹 Program: "Bubbles II"
     ├─ Alias           : "Broadcom BCM5719 Ethernet 1Gb 4-port Base-T OCP3 Adapter for HPE"
     ├─ PCA             : "P51183-001"
