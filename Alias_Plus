@@ -1708,6 +1708,18 @@
     ├─ FRU Product & Board Part Number : "BCM95719N1905HC"
     ├─ FRU Product & Board Serial Num : "1CH0150001"
     ├─ Source : "file="HW G11 Development Programs .xlsx", sheet="Gen11 Development Programs""
+    └─ iLO Product Name: "Broadcom NetXtreme Gigabit Ethernet"
+
+🔹 Program: "Bubbles II"
+    ├─ Alias           : "Broadcom BCM5719 Ethernet 1Gb 4-port Base-T OCP3 Adapter for HPE"
+    ├─ PCA             : "P51183-001"
+    ├─ Host Interface  : "PCIe Gen2 x 4"
+    ├─ Speeds Negotiated : "100M/1G"
+    ├─ Speed : "1G"
+    ├─ FRU Product & Board Name : "BCM 5719 1Gb 4p BASE-T OCP Adptr"
+    ├─ FRU Product & Board Part Number : "BCM95719N1905HC"
+    ├─ FRU Product & Board Serial Num : "1CH0150001"
+    ├─ Source : "file="HW G11 Development Programs .xlsx", sheet="Gen11 Development Programs""
     └─ iLO Product Name: "BCM 5719 1Gb 4p BASE-T OCP Adptr"
 
 🔹 Program: "Brave"
