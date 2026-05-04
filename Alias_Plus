@@ -1278,6 +1278,20 @@
     ├─ Source : "file="HW G10 Plus Development Programs .xlsx", sheet="G10 Plus Development Programs""
     └─ iLO Product Name: "(Empty)"
 
+🔹 Program: "Macro"
+    ├─ Alias           : "Mellanox MCX631432AS-ADAI Ethernet 10/25Gb 2-port SFP28 OCP3 Adapter for HPE"
+    ├─ PCA             : "MCX631432AS-ADAI"
+    ├─ Host Interface  : "PCIe Gen 3.0/4.0 x8"
+    ├─ Speeds Negotiated : "10/25GbE"
+    ├─ Speed : "10/25G"
+    ├─ FRU Product & Board Name : "(missing)"
+    ├─ FRU Product & Board Part Number : "NA"
+    ├─ FRU Product & Board Serial Num : "NA"
+    ├─ Source : "file="HW G10 Plus Development Programs .xlsx", sheet="G10 Plus Development Programs""
+    └─ iLO Product Name: "(Empty)"
+
+
+
 🔹 Program: "Broadcast"
     ├─ Alias           : "Broadcom BCM57504 Ethernet 10/25Gb 4-port SFP28 Adapter for HPE"
     ├─ PCA             : "P41970-001"
