@@ -1592,6 +1592,18 @@
     ├─ Source : "file="HW G10 Plus Development Programs .xlsx", sheet="Completed G10 Plus""
     └─ iLO Product Name: "Broadcom P210tep NetXtreme-E Dual-port 10GBASE-T Ethernet PCIe Adapter - NIC"
 
+🔹 Program: "Bishop2"
+    ├─ Alias           : "Broadcom BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller"
+    ├─ PCA             : "P26255-001"
+    ├─ Host Interface  : ""
+    ├─ Speeds Negotiated : "1/10G"
+    ├─ Speed : "10Gb-T"
+    ├─ FRU Product & Board Name : "NA"
+    ├─ FRU Product & Board Part Number : "NA"
+    ├─ FRU Product & Board Serial Num : "NA"
+    ├─ Source : ""
+    └─ iLO Product Name: "Broadcom BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller"
+
 🔹 Program: "Blackberry"
     ├─ Alias           : "Broadcom BCM57412 Ethernet 10Gb 2-port SFP+ OCP3 Adapter for HPE"
     ├─ PCA             : "P26258-001"
